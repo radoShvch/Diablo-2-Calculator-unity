@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9723e1b371b9714080f1e6e4416d87f, type: 3}
+  m_Name: 10_Melee_Fury
+  m_EditorClassIdentifier: 
+  runewName: Fury
+  runewSockets: 3
+  runewRunes: Jah + Gul + Eth
+  runewDesc: "+209% Enhanced Damage\r\n40% Increased Attack Speed\r\nPrevent Monster
+    Heal\r\n66% Chance Of Open Wounds\r\n33% Deadly Strike\r\nIgnore Target's Defense\r\n-25%
+    Target Defense\r\n20% Bonus To Attack Rating\r\n6% Life Stolen Per Hit\r\n+5 To
+    Frenzy (Barbarian Only)"
+  runewGroup: Melee
+  runewLadder: null
+  runewOrder: 10
+  runewDetails: 3 Socket Melee Weapons
+  runewRequiredLevel: 65
+  runewBonusMaxEdFloat: 209
+  runewBonusIASFloat: 40
+  runewBonusMaxDmgFloat: 0
+  runewBonusMinDmgFloat: 0
+  runewBonusMaxFireDmgFloat: 0
+  runewBonusMinFireDmgFloat: 0
+  runewBonusMaxColdDmgFloat: 0
+  runewBonusMinColdDmgFloat: 0
+  runewBonusMaxLightDmgFloat: 0
+  runewBonusMinLightDmgFloat: 0
+  runewBonusPoisonDmgFloat: 0
+  runewBonusMaxMagicDmgFloat: 0
+  runewBonusMinMagicDmgFloat: 0
+  runewBonusStrFloat: 0
+  runewBonusDexFloat: 0
+  runewBonusAllAttributeFloat: 0

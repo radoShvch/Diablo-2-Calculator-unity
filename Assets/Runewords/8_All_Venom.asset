@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9723e1b371b9714080f1e6e4416d87f, type: 3}
+  m_Name: 8_All_Venom
+  m_EditorClassIdentifier: 
+  runewName: Venom
+  runewSockets: 3
+  runewRunes: Tal + Dol + Mal
+  runewDesc: "Hit Causes Monster To Flee 25%\r\nPrevent Monster Heal\r\nIgnore Target's
+    Defense\r\n7% Mana Stolen Per Hit\r\nLevel 15 Poison Explosion (27 Charges)\r\nLevel
+    13 Poison Nova (11 Charges)\r\n+273 Poison Damage Over 6 seconds"
+  runewGroup: All
+  runewLadder: null
+  runewOrder: 8
+  runewDetails: '3 Socket Weapons '
+  runewRequiredLevel: 49
+  runewBonusMaxEdFloat: 0
+  runewBonusIASFloat: 0
+  runewBonusMaxDmgFloat: 0
+  runewBonusMinDmgFloat: 0
+  runewBonusMaxFireDmgFloat: 0
+  runewBonusMinFireDmgFloat: 0
+  runewBonusMaxColdDmgFloat: 0
+  runewBonusMinColdDmgFloat: 0
+  runewBonusMaxLightDmgFloat: 0
+  runewBonusMinLightDmgFloat: 0
+  runewBonusPoisonDmgFloat: 273
+  runewBonusMaxMagicDmgFloat: 0
+  runewBonusMinMagicDmgFloat: 0
+  runewBonusStrFloat: 0
+  runewBonusDexFloat: 0
+  runewBonusAllAttributeFloat: 0

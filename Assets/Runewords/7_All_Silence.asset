@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9723e1b371b9714080f1e6e4416d87f, type: 3}
+  m_Name: 7_All_Silence
+  m_EditorClassIdentifier: 
+  runewName: Silence
+  runewSockets: 6
+  runewRunes: Dol + Eld + Hel + Ist + Tir + Vex
+  runewDesc: "200% Enhanced Damage\r\n+75% Damage To Undead\r\nRequirements -20%\r\n20%
+    Increased Attack Speed\r\n+50 To Attack Rating Against Undead\r\n+2 To All Skills\r\nAll
+    Resistances +75\r\n20% Faster Hit Recovery\r\n11% Mana Stolen Per Hit\r\nHit Causes
+    Monster To Flee 25%\r\nHit Blinds Target +33\r\n+2 To Mana After Each Kill\r\n30%
+    Better Chance Of Getting Magic Items"
+  runewGroup: All
+  runewLadder: null
+  runewOrder: 7
+  runewDetails: 6 Socket Weapons
+  runewRequiredLevel: 55
+  runewBonusMaxEdFloat: 200
+  runewBonusIASFloat: 20
+  runewBonusMaxDmgFloat: 0
+  runewBonusMinDmgFloat: 0
+  runewBonusMaxFireDmgFloat: 0
+  runewBonusMinFireDmgFloat: 0
+  runewBonusMaxColdDmgFloat: 0
+  runewBonusMinColdDmgFloat: 0
+  runewBonusMaxLightDmgFloat: 0
+  runewBonusMinLightDmgFloat: 0
+  runewBonusPoisonDmgFloat: 0
+  runewBonusMaxMagicDmgFloat: 0
+  runewBonusMinMagicDmgFloat: 0
+  runewBonusStrFloat: 0
+  runewBonusDexFloat: 0
+  runewBonusAllAttributeFloat: 0

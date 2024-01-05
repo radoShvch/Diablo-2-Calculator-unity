@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9723e1b371b9714080f1e6e4416d87f, type: 3}
+  m_Name: 26_Mixed_Doom
+  m_EditorClassIdentifier: 
+  runewName: Doom
+  runewSockets: 5
+  runewRunes: Hel + Ohm + Um + Lo + Cham
+  runewDesc: "5% Chance To Cast Level 18 Volcano On Striking\r\nLevel 12 Holy Freeze
+    Aura When Equipped\r\n+2 To All Skills\r\n+45% Increased Attack Speed\r\n+330-370%
+    Enhanced Damage (varies)\r\n-(40-60)% To Enemy Cold Resistance (varies)\r\n20%
+    Deadly Strike\r\n25% Chance of Open Wounds\r\nPrevent Monster Heal\r\nFreezes
+    Target +3\r\nRequirements -20%"
+  runewGroup: Mixed
+  runewLadder: null
+  runewOrder: 26
+  runewDetails: 5 Socket Swords/Axes
+  runewRequiredLevel: 67
+  runewBonusMaxEdFloat: 370
+  runewBonusIASFloat: 45
+  runewBonusMaxDmgFloat: 0
+  runewBonusMinDmgFloat: 0
+  runewBonusMaxFireDmgFloat: 0
+  runewBonusMinFireDmgFloat: 0
+  runewBonusMaxColdDmgFloat: 0
+  runewBonusMinColdDmgFloat: 0
+  runewBonusMaxLightDmgFloat: 0
+  runewBonusMinLightDmgFloat: 0
+  runewBonusPoisonDmgFloat: 0
+  runewBonusMaxMagicDmgFloat: 0
+  runewBonusMinMagicDmgFloat: 0
+  runewBonusStrFloat: 0
+  runewBonusDexFloat: 0
+  runewBonusAllAttributeFloat: 0

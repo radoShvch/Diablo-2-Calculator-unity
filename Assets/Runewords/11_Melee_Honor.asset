@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9723e1b371b9714080f1e6e4416d87f, type: 3}
+  m_Name: 11_Melee_Honor
+  m_EditorClassIdentifier: 
+  runewName: Honor
+  runewSockets: 5
+  runewRunes: Amn + El + Ith + Tir + Sol
+  runewDesc: "+160% Enhanced Damage\r\n+9 To Minimum Damage\r\n+9 To Maximum Damage\r\n25%
+    Deadly Strike\r\n+250 To Attack Rating\r\n+1 to All Skills\r\n7% Life Stolen Per
+    Hit\r\nReplenish Life +10\r\n+10 To Strength\r\n+1 To Light Radius\r\n+2 To Mana
+    After Each Kill"
+  runewGroup: Melee
+  runewLadder: null
+  runewOrder: 11
+  runewDetails: 5 Socket Melee Weapons
+  runewRequiredLevel: 27
+  runewBonusMaxEdFloat: 160
+  runewBonusIASFloat: 0
+  runewBonusMaxDmgFloat: 9
+  runewBonusMinDmgFloat: 9
+  runewBonusMaxFireDmgFloat: 0
+  runewBonusMinFireDmgFloat: 0
+  runewBonusMaxColdDmgFloat: 0
+  runewBonusMinColdDmgFloat: 0
+  runewBonusMaxLightDmgFloat: 0
+  runewBonusMinLightDmgFloat: 0
+  runewBonusPoisonDmgFloat: 0
+  runewBonusMaxMagicDmgFloat: 0
+  runewBonusMinMagicDmgFloat: 0
+  runewBonusStrFloat: 10
+  runewBonusDexFloat: 0
+  runewBonusAllAttributeFloat: 0

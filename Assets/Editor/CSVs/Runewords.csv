@@ -1,0 +1,49 @@
+Breath of the Dying,6,Vex + Hel + El + Eld + Zod + Eth,,All,null,1,6 Socket Weapons,69,400,60,0,0,0,0,0,0,0,0,0,0,0,0,0,30
+Call To Arms,5,Amn + Ral + Mal + Ist + Ohm,,All,null,2,5 Socket Weapons ,57,290,40,0,0,30,5,0,0,0,0,0,0,0,0,0,0
+Fortitude,4,El + Sol + Dol + Lo,,All,Ladder only,3,4 Socket Weapons ,59,300,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0
+Hand of Justice,4,Sur + Cham + Amn + Lo,,All,null,4,4 Socket Weapons ,67,330,33,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Passion,4,Dol + Ort + Eld + Lem,,All,null,5,4 Socket Weapons ,43,210,25,0,0,0,0,0,0,50,1,0,0,0,0,0,0
+Phoenix,4,Vex + Vex + Lo + Jah,,All,Ladder only,6,4 Socket Weapons ,65,400,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Silence,6,Dol + Eld + Hel + Ist + Tir + Vex,,All,null,7,6 Socket Weapons,55,200,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Venom,3,Tal + Dol + Mal,,All,null,8,3 Socket Weapons ,49,0,0,0,0,0,0,0,0,0,0,273,0,0,0,0,0
+Eternity,5,Amn + Ber + Ist + Sol + Sur,,Melee,null,9,5 Socket Melee Weapons,63,310,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0
+Fury,3,Jah + Gul + Eth,,Melee,null,10,3 Socket Melee Weapons,65,209,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Honor,5,Amn + El + Ith + Tir + Sol,,Melee,null,11,5 Socket Melee Weapons,27,160,0,9,9,0,0,0,0,0,0,0,0,0,10,0,0
+Malice,3,Ith + El + Eth,,Melee,null,12,3 Socket Melee Weapons,15,33,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0
+Strength,2,Amn + Tir,Str desc text,Melee,null,13,2 Socket Melee Weapons,25,35,0,0,0,0,0,0,0,0,0,0,0,0,20,0,0
+Wind,2,Sur + El,wind desc text,Melee,null,14,2 Socket Melee Weapons,61,160,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brand,4,Jah + Lo + Mal + Gul,,Bows,Ladder only,15,4 Socket Missile Weapons,65,340,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Edge,3,Tir + Tal + Amn,,Bows,Ladder only,16,3 Socket Missile Weapons,25,0,35,0,0,0,0,0,0,0,0,75,0,0,0,0,10
+Faith,4,Ohm + Jah + Lem + Eld,,Bows,Ladder only,17,4 Socket Missile Weapons,65,330,0,0,0,120,120,0,0,0,0,0,0,0,0,0,0
+Harmony,4,Tir + Ith + Sol + Ko,,Bows,Ladder only,18,4 Socket Missile Weapons,39,275,0,9,9,160,55,160,55,160,55,0,0,0,0,10,0
+Ice,4,Amn + Shael + Jah + Lo,,Bows,Ladder only,19,4 Socket Missile Weapons,65,210,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Melody,3,Shael + Ko + Nef,,Bows,null,20,3 Socket Missile Weapons,39,50,20,0,0,0,0,0,0,0,0,0,0,0,0,10,0
+Wrath,4,Pul + Lum + Ber + Mal,,Bows,Ladder only,21,4 Socket Missile Weapons,63,0,0,0,0,0,0,0,0,240,41,0,120,85,0,0,0
+Zephyr,2,Ort + Eth,,Bows,null,22,2 Socket Missile Weapons,21,33,25,0,0,0,0,0,0,50,1,0,0,0,0,0,0
+Beast,5,Ber + Tir + Um + Mal + Lum,,Mixed,null,23,5 Socket Axes/Scepters/Hammers,63,270,40,0,0,0,0,0,0,0,0,0,0,0,40,0,0
+Crescent Moon,3,Shael + Um + Tir,Crescent Moon,Mixed,null,24,3 Socket Axes/Swords/Polearms,47,220,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Death,5,Hel + El + Vex + Ort + Gul,,Mixed,Ladder only,25,5 Socket Swords/Axes,55,385,0,0,0,0,0,0,0,50,1,0,0,0,0,0,0
+Doom,5,Hel + Ohm + Um + Lo + Cham,,Mixed,null,26,5 Socket Swords/Axes,67,370,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Famine,4,Fal + Ohm + Ort + Jah,,Mixed,null,27,4 Socket Axes/Hammers,65,370,30,0,0,200,50,200,50,250,51,0,200,180,10,0,0
+Grief,5,Eth + Tir + Lo + Mal + Ral,,Mixed,Ladder only,28,5 Socket Swords/Axes,59,400,40,0,0,30,5,0,0,0,0,0,0,0,0,0,0
+Kingslayer,4,Mal + Um + Gul + Fal,,Mixed,null,29,4 Socket Swords/Axes,53,270,30,0,0,0,0,0,0,0,0,0,0,0,10,0,0
+Last Wish,6,Jah + Mal + Jah + Sur + Jah + Ber,,Mixed,Ladder only,30,6 Socket Swords/Hammers/Axes,65,375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Oath,4,Shael + Pul + Mal + Lum,,Mixed,Ladder only,31,4 Socket Swords/Axes/Maces,49,340,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Steel,2,Tir + El,,Mixed,null,32,2 Socket Swords/Axes/Maces,13,20,25,3,3,0,0,0,0,0,0,0,0,0,0,0,0
+Chaos,3,Fal + Ohm + Um,,Claws,null,33,3 Socket Claws,57,340,35,0,0,0,0,0,0,0,0,0,471,216,10,0,0
+Black,3,Thul + Io + Nef,,Mixed,null,34,3 Socket Clubs/Hammers/Maces,35,120,15,0,0,0,0,14,3,0,0,0,0,0,0,0,0
+Lawbringer,3,Amn + Lem + Ko,,Mixed,Ladder only,35,3 Socket Swords/Hammers/Scepters,43,0,0,0,0,210,150,180,130,0,0,0,0,0,0,10,0
+Heart of the Oak,4,Ko + Vex + Pul + Thul,,Mixed,null,36,4 Socket Staves/Maces,55,0,0,0,0,0,0,14,3,0,0,0,0,0,0,10,0
+Voice of Reason,4,Lem + Ko + El + Eld,,Mixed,Ladder only,37,4 Socket Swords/Maces,43,0,0,0,0,0,0,220,100,0,0,0,0,0,0,10,0
+Destruction,5,Vex + Lo + Ber + Jah + Ko,,Mixed,Ladder only,38,5 Socket Polearms/Swords,65,350,0,0,0,0,0,0,0,0,0,0,180,100,0,10,0
+Infinity,4,Ber + Mal + Ber + Ist,,Polearms,Ladder only,39,4 Socket Polearms,63,325,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Insight,4,Ral + Tir + Tal + Sol,,Mixed,Ladder only,40,4 Socket Polearms/Staves,27,260,0,0,9,30,5,0,0,0,0,75,0,0,0,0,5
+Obedience,5,Hel + Ko + Thul + Eth + Fal,,Polearms,Ladder only,41,5 Socket Polearms,41,370,0,0,0,0,0,14,3,0,0,0,0,0,10,10,0
+Pride,4,Cham + Sur + Io + Lo,,Polearms,Ladder only,42,4 Socket Polearms,67,0,0,0,0,0,0,0,0,280,50,0,0,0,0,0,0
+Rift,4,Hel + Ko + Lem + Gul,,Mixed,Ladder only,43,4 Socket Polearms/Scepters,53,0,0,0,0,180,50,0,0,0,0,0,250,160,0,10,10
+Holy Thunder,4,Eth + Ral + Ort + Tal,,Scepters,null,44,4 Socket Scepters,24,60,0,10,0,30,5,0,0,110,21,75,0,0,0,0,0
+King's Grace,3,Amn + Ral + Thul,,Mixed,null,45,3 Socket Swords/Scepters,25,100,0,0,0,30,5,14,3,0,0,0,0,0,0,0,0
+Leaf,2,Tir + Ral,,Staves,null,46,2 Socket Staves (Not Orbs),19,0,0,0,0,30,5,0,0,0,0,0,0,0,0,0,0
+Memory,4,Lum + Io + Sol + Eth,,Staves,null,47,4 Socket Staves (Not Orbs),37,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0
+Spirit,4,Tal + Thul + Ort + Amn,,Swords,Ladder only,48,4 Socket Swords/Shields,25,0,0,0,0,0,0,14,3,50,1,75,0,0,0,0,0
+White,2,Dol + Io,,Wands,null,49,2 Socket Wands,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

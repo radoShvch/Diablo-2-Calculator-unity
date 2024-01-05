@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9723e1b371b9714080f1e6e4416d87f, type: 3}
+  m_Name: 4_All_Hand of Justice
+  m_EditorClassIdentifier: 
+  runewName: Hand of Justice
+  runewSockets: 4
+  runewRunes: Sur + Cham + Amn + Lo
+  runewDesc: "100% Chance To Cast Level 36 Blaze When You Level-Up\r\n100% Chance
+    To Cast Level 48 Meteor When You Die\r\nLevel 16 Holy Fire Aura When Equipped\r\n+33%
+    Increased Attack Speed\r\n+280-330% Enhanced Damage (varies)\r\nIgnore Target's
+    Defense\r\n7% Life Stolen Per Hit\r\n-20% To Enemy Fire Resistance\r\n20% Deadly
+    Strike\r\nHit Blinds Target\r\nFreezes Target +3"
+  runewGroup: All
+  runewLadder: null
+  runewOrder: 4
+  runewDetails: '4 Socket Weapons '
+  runewRequiredLevel: 67
+  runewBonusMaxEdFloat: 330
+  runewBonusIASFloat: 33
+  runewBonusMaxDmgFloat: 0
+  runewBonusMinDmgFloat: 0
+  runewBonusMaxFireDmgFloat: 0
+  runewBonusMinFireDmgFloat: 0
+  runewBonusMaxColdDmgFloat: 0
+  runewBonusMinColdDmgFloat: 0
+  runewBonusMaxLightDmgFloat: 0
+  runewBonusMinLightDmgFloat: 0
+  runewBonusPoisonDmgFloat: 0
+  runewBonusMaxMagicDmgFloat: 0
+  runewBonusMinMagicDmgFloat: 0
+  runewBonusStrFloat: 0
+  runewBonusDexFloat: 0
+  runewBonusAllAttributeFloat: 0

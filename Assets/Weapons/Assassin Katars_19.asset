@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aaef011930da5c14c8bd1606a398569e, type: 3}
+  m_Name: Assassin Katars_19
+  m_EditorClassIdentifier: 
+  weaponName: Feral Claws
+  weaponType: Assassin Katars
+  minDamage: 22
+  maxDamage: 53
+  speed: -20
+  maxSockets: 3
+  reqStr: 113
+  reqDex: 113
+  weaponIndex: 19
+  minDamageThrow: 0
+  maxDamageThrow: 0
+  minDamageOneHandSword: 0
+  maxDamageOneHandSword: 0

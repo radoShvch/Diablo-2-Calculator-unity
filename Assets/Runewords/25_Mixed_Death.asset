@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9723e1b371b9714080f1e6e4416d87f, type: 3}
+  m_Name: 25_Mixed_Death
+  m_EditorClassIdentifier: 
+  runewName: Death
+  runewSockets: 5
+  runewRunes: Hel + El + Vex + Ort + Gul
+  runewDesc: "100% Chance To Cast Level 44 Chain Lightning When You Die\r\n25% Chance
+    To Cast Level 18 Glacial Spike On Attack\r\nIndestructible\r\n+300-385% Enhanced
+    Damage (varies)\r\n20% Bonus To Attack Rating\r\n+50 To Attack Rating\r\nAdds
+    1-50 Lightning Damage\r\n7% Mana Stolen Per Hit\r\n50% Chance of Crushing Blow\r\n+(0.5
+    per Character Level) 0.5-49.5% Deadly Strike (Based on Character Level)\r\n+1
+    To Light Radius\r\nLevel 22 Blood Golem (15 Charges)\r\nRequirements -20%"
+  runewGroup: Mixed
+  runewLadder: Ladder only
+  runewOrder: 25
+  runewDetails: 5 Socket Swords/Axes
+  runewRequiredLevel: 55
+  runewBonusMaxEdFloat: 385
+  runewBonusIASFloat: 0
+  runewBonusMaxDmgFloat: 0
+  runewBonusMinDmgFloat: 0
+  runewBonusMaxFireDmgFloat: 0
+  runewBonusMinFireDmgFloat: 0
+  runewBonusMaxColdDmgFloat: 0
+  runewBonusMinColdDmgFloat: 0
+  runewBonusMaxLightDmgFloat: 50
+  runewBonusMinLightDmgFloat: 1
+  runewBonusPoisonDmgFloat: 0
+  runewBonusMaxMagicDmgFloat: 0
+  runewBonusMinMagicDmgFloat: 0
+  runewBonusStrFloat: 0
+  runewBonusDexFloat: 0
+  runewBonusAllAttributeFloat: 0

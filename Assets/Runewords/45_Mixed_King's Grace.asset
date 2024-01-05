@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9723e1b371b9714080f1e6e4416d87f, type: 3}
+  m_Name: 45_Mixed_King's Grace
+  m_EditorClassIdentifier: 
+  runewName: King's Grace
+  runewSockets: 3
+  runewRunes: Amn + Ral + Thul
+  runewDesc: "+100% Enhanced Damage\r\n+100% Damage To Demons\r\n+50% Damage To Undead\r\nAdds
+    5-30 Fire Damage\r\nAdds 3-14 Cold Damage - 3 Second Duration\r\n+150 To Attack
+    Rating\r\n+100 To Attack Rating Against Demons\r\n+100 To Attack Rating Against
+    Undead\r\n7% Life Stolen Per Hit"
+  runewGroup: Mixed
+  runewLadder: null
+  runewOrder: 45
+  runewDetails: 3 Socket Swords/Scepters
+  runewRequiredLevel: 25
+  runewBonusMaxEdFloat: 100
+  runewBonusIASFloat: 0
+  runewBonusMaxDmgFloat: 0
+  runewBonusMinDmgFloat: 0
+  runewBonusMaxFireDmgFloat: 30
+  runewBonusMinFireDmgFloat: 5
+  runewBonusMaxColdDmgFloat: 14
+  runewBonusMinColdDmgFloat: 3
+  runewBonusMaxLightDmgFloat: 0
+  runewBonusMinLightDmgFloat: 0
+  runewBonusPoisonDmgFloat: 0
+  runewBonusMaxMagicDmgFloat: 0
+  runewBonusMinMagicDmgFloat: 0
+  runewBonusStrFloat: 0
+  runewBonusDexFloat: 0
+  runewBonusAllAttributeFloat: 0

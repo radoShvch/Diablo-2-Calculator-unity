@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9723e1b371b9714080f1e6e4416d87f, type: 3}
+  m_Name: 38_Mixed_Destruction
+  m_EditorClassIdentifier: 
+  runewName: Destruction
+  runewSockets: 5
+  runewRunes: Vex + Lo + Ber + Jah + Ko
+  runewDesc: "23% Chance To Cast Level 12 Volcano On Striking\r\n5% Chance To Cast
+    Level 23 Molten Boulder On Striking\r\n100% Chance To Cast level 45 Meteor When
+    You Die\r\n15% Chance To Cast Level 22 Nova On Attack\r\n+350% Enhanced Damage\r\nIgnore
+    Target's Defense\r\nAdds 100-180 Magic Damage\r\n7% Mana Stolen Per Hit\r\n20%
+    Chance Of Crushing Blow\r\n20% Deadly Strike\r\nPrevent Monster Heal\r\n+10 To
+    Dexterity"
+  runewGroup: Mixed
+  runewLadder: Ladder only
+  runewOrder: 38
+  runewDetails: 5 Socket Polearms/Swords
+  runewRequiredLevel: 65
+  runewBonusMaxEdFloat: 350
+  runewBonusIASFloat: 0
+  runewBonusMaxDmgFloat: 0
+  runewBonusMinDmgFloat: 0
+  runewBonusMaxFireDmgFloat: 0
+  runewBonusMinFireDmgFloat: 0
+  runewBonusMaxColdDmgFloat: 0
+  runewBonusMinColdDmgFloat: 0
+  runewBonusMaxLightDmgFloat: 0
+  runewBonusMinLightDmgFloat: 0
+  runewBonusPoisonDmgFloat: 0
+  runewBonusMaxMagicDmgFloat: 180
+  runewBonusMinMagicDmgFloat: 100
+  runewBonusStrFloat: 0
+  runewBonusDexFloat: 10
+  runewBonusAllAttributeFloat: 0

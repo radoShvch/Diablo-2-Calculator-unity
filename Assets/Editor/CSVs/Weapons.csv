@@ -1,0 +1,264 @@
+Short Bow,Bows,1,4,5,3,0,15,1,0,0,0,0
+Hunter's Bow,Bows,2,6,-10,4,0,28,2,0,0,0,0
+Long Bow,Bows,3,10,0,5,22,19,3,0,0,0,0
+Composite Bow,Bows,4,8,-10,4,25,35,4,0,0,0,0
+Short Battle Bow,Bows,5,11,0,5,30,40,5,0,0,0,0
+Long Battle Bow,Bows,3,18,10,6,40,50,6,0,0,0,0
+Short War Bow,Bows,6,14,0,5,35,55,7,0,0,0,0
+Long War Bow,Bows,3,23,10,6,50,65,8,0,0,0,0
+Edge Bow,Bows,6,19,5,3,25,43,9,0,0,0,0
+Razor Bow,Bows,8,22,-10,4,25,62,10,0,0,0,0
+Cedar Bow,Bows,10,29,0,5,53,49,11,0,0,0,0
+Double Bow,Bows,11,26,-10,4,58,73,12,0,0,0,0
+Short Siege Bow,Bows,13,30,0,5,65,80,13,0,0,0,0
+Large Siege Bow,Bows,10,42,10,6,80,95,14,0,0,0,0
+Rune Bow,Bows,14,35,0,5,73,103,15,0,0,0,0
+Gothic Bow,Bows,10,50,10,6,95,118,16,0,0,0,0
+Spider Bow,Bows,23,50,5,3,64,143,17,0,0,0,0
+Blade Bow,Bows,21,41,-10,4,76,119,18,0,0,0,0
+Shadow Bow,Bows,15,59,0,5,52,188,19,0,0,0,0
+Great Bow,Bows,12,52,-10,4,121,107,20,0,0,0,0
+Diamond Bow,Bows,33,40,0,5,89,132,21,0,0,0,0
+Crusader Bow,Bows,15,63,10,6,97,121,22,0,0,0,0
+Ward Bow,Bows,20,53,0,5,72,146,23,0,0,0,0
+Hydra Bow,Bows,10,68,10,6,134,167,24,0,0,0,0
+Stag Bow,Bows,7,12,0,5,30,45,25,0,0,0,0
+Reflex Bow,Bows,9,19,10,5,35,60,26,0,0,0,0
+Ashwood Bow,Bows,16,29,0,5,56,77,27,0,0,0,0
+Ceremonial Bow,Bows,19,41,10,5,73,110,28,0,0,0,0
+Matriarchal Bow,Bows,20,47,-10,5,87,187,29,0,0,0,0
+Grand Matron Bow,Bows,14,72,10,5,108,152,30,0,0,0,0
+Hand Axe,Axes,3,6,0,2,0,0,1,0,0,0,0
+Axe,Axes,4,11,0,4,32,0,2,0,0,0,0
+Double Axe,Axes,5,13,0,5,43,0,3,0,0,0,0
+Military Pick,Axes,7,11,-10,6,49,33,4,0,0,0,0
+War Axe,Axes,10,18,0,6,67,0,5,0,0,0,0
+Large Axe (2H),Axes,6,13,-10,4,35,0,6,0,0,0,0
+Broad Axe (2H),Axes,10,18,0,5,48,0,7,0,0,0,0
+Battle Axe (2H),Axes,12,32,10,5,54,0,8,0,0,0,0
+Great Axe (2H),Axes,9,30,-10,6,63,39,9,0,0,0,0
+Giant Axe (2H),Axes,22,45,10,6,70,0,10,0,0,0,0
+Hatchet,Axes,10,21,0,2,25,25,11,0,0,0,0
+Cleaver,Axes,10,33,10,4,68,0,12,0,0,0,0
+Twin Axe,Axes,13,38,10,5,85,0,13,0,0,0,0
+Crowbill,Axes,14,34,-10,6,94,70,14,0,0,0,0
+Naga,Axes,16,45,0,6,121,0,15,0,0,0,0
+Military Axe (2H),Axes,14,34,-10,4,73,0,16,0,0,0,0
+Bearded Axe (2H),Axes,21,49,0,5,92,0,17,0,0,0,0
+Tabar (2H),Axes,24,77,10,5,101,0,18,0,0,0,0
+Gothic Axe (2H),Axes,18,70,-10,6,115,79,19,0,0,0,0
+Ancient Axe (2H),Axes,43,85,10,6,125,0,20,0,0,0,0
+Tomahawk,Axes,33,58,0,2,125,67,21,0,0,0,0
+Small Crescent,Axes,38,60,10,4,115,83,22,0,0,0,0
+Ettin Axe,Axes,33,66,10,5,145,45,23,0,0,0,0
+War Spike,Axes,30,48,-10,6,133,54,24,0,0,0,0
+Berserker Axe,Axes,24,71,0,6,138,59,25,0,0,0,0
+Feral Axe (2H),Axes,25,123,-15,4,196,0,26,0,0,0,0
+Silver-Edged Axe (2H),Axes,62,110,0,5,166,65,27,0,0,0,0
+Decapitator (2H),Axes,49,137,10,5,189,33,28,0,0,0,0
+Champion Axe (2H),Axes,59,94,-10,6,167,59,29,0,0,0,0
+Glorious Axe (2H),Axes,60,124,10,6,164,55,30,0,0,0,0
+Short Sword,Swords_1H,2,7,0,2,0,0,1,0,0,0,0
+Scimitar,Swords_1H,2,6,-20,2,0,21,2,0,0,0,0
+Sabre,Swords_1H,3,8,-10,2,25,25,3,0,0,0,0
+Falchion,Swords_1H,9,17,20,2,33,0,4,0,0,0,0
+Crystal Sword,Swords_1H,5,15,0,6,43,0,5,0,0,0,0
+Broad Sword,Swords_1H,7,14,0,4,48,0,6,0,0,0,0
+Long Sword,Swords_1H,3,19,-10,4,55,39,7,0,0,0,0
+War Sword,Swords_1H,8,20,0,3,71,45,8,0,0,0,0
+Gladius,Swords_1H,8,22,0,2,25,0,9,0,0,0,0
+Cutlass,Swords_1H,8,21,-30,2,25,52,10,0,0,0,0
+Shamir,Swords_1H,10,24,-10,2,58,58,11,0,0,0,0
+Tulwar,Swords_1H,16,35,20,2,70,42,12,0,0,0,0
+Dimensional Blade,Swords_1H,13,35,0,6,85,60,13,0,0,0,0
+Battle Sword,Swords_1H,16,34,0,4,92,43,14,0,0,0,0
+Rune Sword,Swords_1H,10,42,-10,4,103,79,15,0,0,0,0
+Ancient Sword,Swords_1H,18,43,0,3,127,88,16,0,0,0,0
+Falcata,Swords_1H,31,59,0,2,150,88,17,0,0,0,0
+Ataghan,Swords_1H,26,46,-20,2,138,95,18,0,0,0,0
+Elegant Blade,Swords_1H,33,45,-10,2,109,122,19,0,0,0,0
+Hydra Edge,Swords_1H,28,68,10,2,142,105,20,0,0,0,0
+Phase Blade,Swords_1H,31,35,-30,6,25,136,21,0,0,0,0
+Conquest Sword,Swords_1H,37,53,0,4,142,112,22,0,0,0,0
+Cryptic Sword,Swords_1H,5,77,-10,4,99,109,23,0,0,0,0
+Mythical Sword,Swords_1H,40,50,0,3,147,124,24,0,0,0,0
+Two-handed Sword,Swords_2H,8,17,0,3,35,27,1,0,0,2,9
+Claymore,Swords_2H,13,30,10,4,47,0,2,0,0,5,12
+Giant Sword,Swords_2H,9,28,0,4,56,34,3,0,0,3,16
+Bastard Sword,Swords_2H,20,28,10,4,62,0,4,0,0,7,19
+Flamberge,Swords_2H,13,26,-10,5,70,49,5,0,0,9,15
+Great Sword,Swords_2H,25,42,10,6,100,60,6,0,0,12,20
+Espandon,Swords_2H,18,40,0,3,73,61,7,0,0,8,26
+Dacian Falx,Swords_2H,26,61,10,4,91,20,8,0,0,13,30
+Tusk Sword,Swords_2H,19,58,0,4,104,71,9,0,0,10,37
+Gothic Sword,Swords_2H,39,60,10,4,113,20,10,0,0,14,40
+Zweihander,Swords_2H,29,54,-10,5,125,94,11,0,0,19,35
+Executioner Sword,Swords_2H,47,80,10,6,170,110,12,0,0,24,40
+Legend Sword,Swords_2H,50,94,-15,3,175,100,13,0,0,22,56
+Highland Blade,Swords_2H,67,96,-5,4,171,104,14,0,0,22,62
+Balrog Blade,Swords_2H,55,118,0,4,185,87,15,0,0,15,75
+Champion Sword,Swords_2H,71,83,-10,4,163,103,16,0,0,24,54
+Colossus Sword,Swords_2H,61,121,10,5,182,95,17,0,0,26,70
+Colossus Blade,Swords_2H,58,115,5,6,189,110,18,0,0,25,65
+Club,Blunt Weapons,1,6,-10,2,0,0,1,0,0,0,0
+Spiked Club,Blunt Weapons,5,8,0,2,0,0,2,0,0,0,0
+Mace,Blunt Weapons,3,10,0,2,27,0,3,0,0,0,0
+Morning Star,Blunt Weapons,7,16,10,3,36,0,4,0,0,0,0
+Flail,Blunt Weapons,1,24,-10,5,41,35,5,0,0,0,0
+War Hammer,Blunt Weapons,19,29,20,4,53,0,6,0,0,0,0
+Maul,Blunt Weapons,30,43,10,6,69,0,7,0,0,0,0
+Great Maul,Blunt Weapons,38,58,20,6,99,0,8,0,0,0,0
+Cudgel,Blunt Weapons,6,21,-10,2,25,0,9,0,0,0,0
+Barbed Club,Blunt Weapons,13,25,0,3,30,0,10,0,0,0,0
+Flanged Mace,Blunt Weapons,15,23,0,2,61,0,11,0,0,0,0
+Jagged Star,Blunt Weapons,20,31,10,3,74,0,12,0,0,0,0
+Knout,Blunt Weapons,13,35,-10,5,82,73,13,0,0,0,0
+Battle Hammer,Blunt Weapons,35,58,20,4,100,0,14,0,0,0,0
+War Club,Blunt Weapons,53,78,10,6,124,0,15,0,0,0,0
+Martel de Fer,Blunt Weapons,61,99,20,6,169,0,16,0,0,0,0
+Truncheon,Blunt Weapons,35,43,-10,2,88,43,17,0,0,0,0
+Tyrant Club,Blunt Weapons,32,58,0,3,133,0,18,0,0,0,0
+Reinforced Mace,Blunt Weapons,41,49,0,2,145,46,19,0,0,0,0
+Devil Star,Blunt Weapons,43,53,10,3,153,44,20,0,0,0,0
+Scourge,Blunt Weapons,3,80,-10,5,125,77,21,0,0,0,0
+Legendary Mallet,Blunt Weapons,50,61,20,4,189,0,22,0,0,0,0
+Ogre Maul,Blunt Weapons,77,106,10,6,225,0,23,0,0,0,0
+Thunder Maul,Blunt Weapons,33,180,20,6,253,0,24,0,0,0,0
+Javelin,Javelins,1,5,-10,0,0,0,1,6,14,0,0
+Pilum,Javelins,4,9,0,0,0,45,2,7,20,0,0
+Short Spear,Javelins,2,13,10,0,40,40,3,10,22,0,0
+Glaive,Javelins,5,17,20,0,52,35,4,16,22,0,0
+Throwing Spear,Javelins,5,15,-10,0,0,65,5,12,30,0,0
+War Javelin,Javelins,6,19,-10,0,25,25,6,14,32,0,0
+Great Pilum,Javelins,11,26,0,0,25,88,7,16,42,0,0
+Simbilan,Javelins,8,32,10,0,80,80,8,27,50,0,0
+Spiculum,Javelins,13,38,20,0,98,73,9,32,60,0,0
+Harpoon,Javelins,13,35,-10,0,25,118,10,18,54,0,0
+Hyperion Javelin,Javelins,21,57,-10,0,98,123,11,28,55,0,0
+Stygian Pilum,Javelins,14,64,0,0,118,112,12,21,75,0,0
+Balrog Spear,Javelins,33,63,10,0,127,95,13,40,62,0,0
+Ghost Glaive,Javelins,19,60,20,0,89,137,14,30,85,0,0
+Winged Harpoon,Javelins,27,35,-10,0,76,145,15,11,77,0,0
+Maiden Spear,Amazon Spears,18,24,0,6,54,40,1,0,0,0,0
+Maiden Pike,Amazon Spears,23,55,10,6,63,52,2,0,0,0,0
+Maiden Javelin,Amazon Spears,8,14,-10,0,33,47,3,6,22,0,0
+Ceremonial Spear,Amazon Spears,34,51,0,6,101,80,4,0,0,0,0
+Ceremonial Pike,Amazon Spears,42,101,20,6,115,98,5,0,0,0,0
+Ceremonial Javelin,Amazon Spears,18,35,-10,0,25,109,6,18,54,0,0
+Matriarchal Spear,Amazon Spears,65,95,0,6,114,142,7,0,0,0,0
+Matriarchal Pike,Amazon Spears,37,153,20,6,132,149,8,0,0,0,0
+Matriarchal Javelin,Amazon Spears,30,54,-10,0,107,151,9,35,66,0,0
+Bardiche,Polearms,1,27,10,3,40,0,1,0,0,0,0
+Voulge,Polearms,6,21,0,4,50,0,2,0,0,0,0
+Scythe,Polearms,8,20,-10,5,41,41,3,0,0,0,0
+Poleaxe,Polearms,18,39,10,5,62,0,4,0,0,0,0
+Halberd,Polearms,12,45,0,6,75,0,5,0,0,0,0
+War Scythe,Polearms,15,36,-10,6,80,80,6,0,0,0,0
+Lochaber Axe,Polearms,6,58,10,3,80,0,7,0,0,0,0
+Bill,Polearms,14,53,0,4,95,0,8,0,0,0,0
+Battle Scythe,Polearms,18,45,-10,5,82,82,9,0,0,0,0
+Partizan,Polearms,34,75,10,5,113,67,10,0,0,0,0
+Bec-De-Corbin,Polearms,13,85,0,6,133,91,11,0,0,0,0
+Grim Scythe,Polearms,30,70,-10,6,140,140,12,0,0,0,0
+Ogre Axe,Polearms,28,145,0,3,195,75,13,0,0,0,0
+Colossus Voulge,Polearms,17,165,10,4,210,55,14,0,0,0,0
+Thresher,Polearms,12,141,-10,5,152,118,15,0,0,0,0
+Cryptic Axe,Polearms,33,150,10,5,165,103,16,0,0,0,0
+Great Poleaxe,Polearms,46,127,0,6,179,99,17,0,0,0,0
+Giant Thresher,Polearms,40,114,-10,6,188,140,18,0,0,0,0
+Spear,Spears,3,15,-10,3,0,20,1,0,0,0,0
+Trident,Spears,9,15,0,4,38,24,2,0,0,0,0
+Brandistock,Spears,7,17,-20,5,40,50,3,0,0,0,0
+Spetum,Spears,15,23,0,6,54,35,4,0,0,0,0
+Pike,Spears,14,63,20,6,60,45,5,0,0,0,0
+War Spear,Spears,10,37,-10,3,25,25,6,0,0,0,0
+Fuscina,Spears,19,37,0,4,77,25,7,0,0,0,0
+War Fork,Spears,16,40,-20,5,80,95,8,0,0,0,0
+Yari,Spears,29,59,0,6,101,0,9,0,0,0,0
+Lance,Spears,27,114,20,6,110,88,10,0,0,0,0
+Hyperion Spear,Spears,35,119,-10,3,155,120,11,0,0,0,0
+Stygian Pike,Spears,29,144,0,4,168,97,12,0,0,0,0
+Mancatcher,Spears,42,92,-20,5,132,134,13,0,0,0,0
+Ghost Spear,Spears,18,155,0,6,122,163,14,0,0,0,0
+War Pike,Spears,33,178,20,6,165,106,15,0,0,0,0
+Scepter,Scepters,6,11,0,2,25,0,1,0,0,0,0
+Grand Scepter,Scepters,8,18,10,3,37,0,2,0,0,0,0
+War Scepter,Scepters,10,17,-10,5,55,0,3,0,0,0,0
+Rune Scepter,Scepters,13,24,0,2,58,0,4,0,0,0,0
+Holy Water Sprinkler,Scepters,14,36,10,3,76,0,5,0,0,0,0
+Divine Scepter,Scepters,16,38,-10,5,103,0,6,0,0,0,0
+Mighty Scepter,Scepters,40,52,0,2,125,65,7,0,0,0,0
+Seraph Rod,Scepters,45,54,10,3,108,69,8,0,0,0,0
+Caduceus,Scepters,37,43,-10,5,97,70,9,0,0,0,0
+Light Crossbow,Crossbows,6,9,-10,3,21,27,1,0,0,0,0
+Crossbow,Crossbows,9,16,0,4,40,33,2,0,0,0,0
+Heavy Crossbow,Crossbows,14,26,10,6,60,40,3,0,0,0,0
+Repeating Crossbow,Crossbows,6,12,-40,5,40,50,4,0,0,0,0
+Arbalest,Crossbows,14,27,-10,3,52,61,5,0,0,0,0
+Siege Crossbow,Crossbows,20,42,0,4,80,70,6,0,0,0,0
+Ballista,Crossbows,33,55,10,6,110,80,7,0,0,0,0
+Chu-Ko-Nu,Crossbows,14,32,-60,5,80,95,8,0,0,0,0
+Pellet Bow,Crossbows,28,73,-10,3,83,155,9,0,0,0,0
+Gorgon Crossbow,Crossbows,25,87,0,4,117,105,10,0,0,0,0
+Colossus Crossbow,Crossbows,32,91,10,6,163,77,11,0,0,0,0
+Demon Crossbow,Crossbows,26,40,-60,5,141,98,12,0,0,0,0
+Katar,Assassin Katars,4,7,-10,2,20,20,1,0,0,0,0
+Wrist Blade,Assassin Katars,5,9,0,2,33,33,2,0,0,0,0
+Hatchet Hands,Assassin Katars,2,15,10,2,37,37,3,0,0,0,0
+Cestus,Assassin Katars,7,15,0,2,42,42,4,0,0,0,0
+Claws,Assassin Katars,8,15,-10,3,46,46,5,0,0,0,0
+Blade Talons,Assassin Katars,10,14,-20,3,50,50,6,0,0,0,0
+Scissors Katar,Assassin Katars,9,17,-10,3,55,55,7,0,0,0,0
+Quhab,Assassin Katars,11,24,0,3,57,57,8,0,0,0,0
+Wrist Spike,Assassin Katars,13,27,-10,2,66,66,9,0,0,0,0
+Fascia,Assassin Katars,8,37,10,2,69,69,10,0,0,0,0
+Hand Scythe,Assassin Katars,16,37,-10,2,73,73,11,0,0,0,0
+Greater Claws,Assassin Katars,18,37,-20,3,76,76,12,0,0,0,0
+Greater Talons,Assassin Katars,21,35,-30,3,79,79,13,0,0,0,0
+Scissors Quhab,Assassin Katars,19,40,0,3,82,82,14,0,0,0,0
+Suwayyah,Assassin Katars,39,52,0,3,99,99,15,0,0,0,0
+Wrist Sword,Assassin Katars,34,45,-10,3,105,105,16,0,0,0,0
+War Fist,Assassin Katars,44,53,10,2,108,108,17,0,0,0,0
+Battle Cestus,Assassin Katars,36,42,-10,2,110,110,18,0,0,0,0
+Feral Claws,Assassin Katars,22,53,-20,3,113,113,19,0,0,0,0
+Runic Talons,Assassin Katars,24,44,-30,3,115,115,20,0,0,0,0
+Scissors Suwayyah,Assassin Katars,40,51,0,3,118,118,21,0,0,0,0
+Throwing Knife,Throwing,2,3,0,0,0,21,1,4,9,0,0
+Balanced Knife,Throwing,1,8,-20,0,0,51,2,6,11,0,0
+Throwing Axe,Throwing,4,7,10,0,0,40,3,8,12,0,0
+Balanced Axe,Throwing,5,10,-10,0,0,57,4,12,15,0,0
+Battle Dart,Throwing,8,16,0,0,25,52,5,11,24,0,0
+War Dart,Throwing,6,24,-20,0,25,97,6,14,27,0,0
+Francisca,Throwing,11,22,10,0,25,80,7,18,33,0,0
+Hurlbat,Throwing,13,27,-10,0,25,106,8,24,34,0,0
+Flying Knife,Throwing,23,54,0,0,48,141,9,23,54,0,0
+Winged Knife,Throwing,27,35,-20,0,45,142,10,23,39,0,0
+Flying Axe,Throwing,17,65,10,0,88,108,11,15,66,0,0
+Winged Axe,Throwing,11,56,-10,0,96,122,12,7,60,0,0
+Dagger,Daggers,1,4,-20,1,0,0,1,0,0,0,0
+Dirk,Daggers,3,9,0,1,0,25,2,0,0,0,0
+Kris,Daggers,2,11,-20,3,0,45,3,0,0,0,0
+Blade,Daggers,4,15,-10,2,35,51,4,0,0,0,0
+Poignard,Daggers,6,18,-20,1,25,0,5,0,0,0,0
+Rondel,Daggers,10,26,0,1,25,58,6,0,0,0,0
+Cinquedeas,Daggers,15,31,-20,3,25,88,7,0,0,0,0
+Stiletto,Daggers,19,36,-10,2,47,97,8,0,0,0,0
+Bone Knife,Daggers,23,49,-20,1,38,75,9,0,0,0,0
+Mithril Point,Daggers,37,53,0,1,55,98,10,0,0,0,0
+Fanged Knife,Daggers,15,57,-20,3,42,86,11,0,0,0,0
+Legend Spike,Daggers,31,47,-10,2,65,67,12,0,0,0,0
+Short Staff,Staves,1,5,-10,2,0,0,1,0,0,0,0
+Long Staff,Staves,2,8,0,3,0,0,2,0,0,0,0
+Gnarled Staff,Staves,4,12,10,4,0,0,3,0,0,0,0
+Battle Staff,Staves,6,13,0,4,0,0,4,0,0,0,0
+War Staff,Staves,12,28,20,6,0,0,5,0,0,0,0
+Jo Staff,Staves,6,21,-10,2,25,0,6,0,0,0,0
+Quarterstaff,Staves,8,26,0,3,25,0,7,0,0,0,0
+Cedar Staff,Staves,11,32,10,4,25,0,8,0,0,0,0
+Gothic Staff,Staves,14,34,0,4,25,0,9,0,0,0,0
+Rune Staff,Staves,24,58,20,6,25,0,10,0,0,0,0
+Walking Stick,Staves,69,85,-10,2,25,0,11,0,0,0,0
+Stalagmite,Staves,75,107,0,3,63,35,12,0,0,0,0
+Elder Staff,Staves,80,93,10,4,44,37,13,0,0,0,0
+Shillelagh,Staves,65,108,0,4,52,27,14,0,0,0,0
+Archon Staff,Staves,83,99,20,6,34,0,15,0,0,0,0

@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9723e1b371b9714080f1e6e4416d87f, type: 3}
+  m_Name: 16_Bows_Edge
+  m_EditorClassIdentifier: 
+  runewName: Edge
+  runewSockets: 3
+  runewRunes: Tir + Tal + Amn
+  runewDesc: "Level 15 Thorns Aura When Equipped\r\n+35% Increased Attack Speed\r\n+320-380%
+    Damage To Demons (varies)\r\n+280% Damage To Undead\r\n+75 Poison Damage Over
+    5 Seconds\r\n7% Life Stolen Per Hit\r\nPrevent Monster Heal\r\n+5-10 To All Attributes
+    (varies)\r\n+2 To Mana After Each Kill\r\nReduces All Vendor Prices 15%"
+  runewGroup: Bows
+  runewLadder: Ladder only
+  runewOrder: 16
+  runewDetails: 3 Socket Missile Weapons
+  runewRequiredLevel: 25
+  runewBonusMaxEdFloat: 0
+  runewBonusIASFloat: 35
+  runewBonusMaxDmgFloat: 0
+  runewBonusMinDmgFloat: 0
+  runewBonusMaxFireDmgFloat: 0
+  runewBonusMinFireDmgFloat: 0
+  runewBonusMaxColdDmgFloat: 0
+  runewBonusMinColdDmgFloat: 0
+  runewBonusMaxLightDmgFloat: 0
+  runewBonusMinLightDmgFloat: 0
+  runewBonusPoisonDmgFloat: 75
+  runewBonusMaxMagicDmgFloat: 0
+  runewBonusMinMagicDmgFloat: 0
+  runewBonusStrFloat: 0
+  runewBonusDexFloat: 0
+  runewBonusAllAttributeFloat: 10

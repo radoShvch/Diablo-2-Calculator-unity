@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9723e1b371b9714080f1e6e4416d87f, type: 3}
+  m_Name: 42_Polearms_Pride
+  m_EditorClassIdentifier: 
+  runewName: Pride
+  runewSockets: 4
+  runewRunes: Cham + Sur + Io + Lo
+  runewDesc: "25% Chance To Cast Level 17 Fire Wall When Struck\r\nLevel 16-20 Concentration
+    Aura When Equipped (varies)\r\n260-300% Bonus To Attack Rating (varies)\r\n+1-99%
+    Damage To Demons (Based on Character Level)\r\nAdds 50-280 Lightning Damage\r\n20%
+    Deadly Strike\r\nHit Blinds Target\r\nFreezes Target +3\r\n+10 To Vitality\r\nReplenish
+    Life +8\r\n1.875-185.625% Extra Gold From Monsters (Based on Character Level)"
+  runewGroup: Polearms
+  runewLadder: Ladder only
+  runewOrder: 42
+  runewDetails: 4 Socket Polearms
+  runewRequiredLevel: 67
+  runewBonusMaxEdFloat: 0
+  runewBonusIASFloat: 0
+  runewBonusMaxDmgFloat: 0
+  runewBonusMinDmgFloat: 0
+  runewBonusMaxFireDmgFloat: 0
+  runewBonusMinFireDmgFloat: 0
+  runewBonusMaxColdDmgFloat: 0
+  runewBonusMinColdDmgFloat: 0
+  runewBonusMaxLightDmgFloat: 280
+  runewBonusMinLightDmgFloat: 50
+  runewBonusPoisonDmgFloat: 0
+  runewBonusMaxMagicDmgFloat: 0
+  runewBonusMinMagicDmgFloat: 0
+  runewBonusStrFloat: 0
+  runewBonusDexFloat: 0
+  runewBonusAllAttributeFloat: 0

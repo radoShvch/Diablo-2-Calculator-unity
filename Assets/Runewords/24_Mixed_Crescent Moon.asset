@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9723e1b371b9714080f1e6e4416d87f, type: 3}
+  m_Name: 24_Mixed_Crescent Moon
+  m_EditorClassIdentifier: 
+  runewName: Crescent Moon
+  runewSockets: 3
+  runewRunes: Shael + Um + Tir
+  runewDesc: "10% Chance To Cast Level 17 Chain Lightning On Striking\r\n7% Chance
+    To Cast Level 13 Static Field On Striking\r\n+20% Increased Attack Speed\r\n+180-220%
+    Enhanced Damage (varies)\r\nIgnore Target's Defense\r\n-35% To Enemy Lightning
+    Resistance\r\n25% Chance of Open Wounds\r\n+9-11 Magic Absorb (varies)\r\n+2 To
+    Mana After Each Kill\r\nLevel 18 Summon Spirit Wolf (30 Charges)"
+  runewGroup: Mixed
+  runewLadder: null
+  runewOrder: 24
+  runewDetails: 3 Socket Axes/Swords/Polearms
+  runewRequiredLevel: 47
+  runewBonusMaxEdFloat: 220
+  runewBonusIASFloat: 20
+  runewBonusMaxDmgFloat: 0
+  runewBonusMinDmgFloat: 0
+  runewBonusMaxFireDmgFloat: 0
+  runewBonusMinFireDmgFloat: 0
+  runewBonusMaxColdDmgFloat: 0
+  runewBonusMinColdDmgFloat: 0
+  runewBonusMaxLightDmgFloat: 0
+  runewBonusMinLightDmgFloat: 0
+  runewBonusPoisonDmgFloat: 0
+  runewBonusMaxMagicDmgFloat: 0
+  runewBonusMinMagicDmgFloat: 0
+  runewBonusStrFloat: 0
+  runewBonusDexFloat: 0
+  runewBonusAllAttributeFloat: 0

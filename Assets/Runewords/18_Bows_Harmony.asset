@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9723e1b371b9714080f1e6e4416d87f, type: 3}
+  m_Name: 18_Bows_Harmony
+  m_EditorClassIdentifier: 
+  runewName: Harmony
+  runewSockets: 4
+  runewRunes: Tir + Ith + Sol + Ko
+  runewDesc: "Level 10 Vigor Aura When Equipped\r\n+200-275% Enhanced Damage (varies)\r\n+9
+    To Minimum Damage\r\n+9 To Maximum Damage\r\nAdds 55-160 Lightning Damage\r\nAdds
+    55-160 Fire Damage\r\nAdds 55-160 Cold Damage\r\n+2-6 To Valkyrie (varies)\r\n+10
+    To Dexterity\r\nRegenerate Mana 20%\r\n+2 To Mana After Each Kill\r\n+2 To Light
+    Radius\r\nLevel 20 Revive (25 Charges)"
+  runewGroup: Bows
+  runewLadder: Ladder only
+  runewOrder: 18
+  runewDetails: 4 Socket Missile Weapons
+  runewRequiredLevel: 39
+  runewBonusMaxEdFloat: 275
+  runewBonusIASFloat: 0
+  runewBonusMaxDmgFloat: 9
+  runewBonusMinDmgFloat: 9
+  runewBonusMaxFireDmgFloat: 160
+  runewBonusMinFireDmgFloat: 55
+  runewBonusMaxColdDmgFloat: 160
+  runewBonusMinColdDmgFloat: 55
+  runewBonusMaxLightDmgFloat: 160
+  runewBonusMinLightDmgFloat: 55
+  runewBonusPoisonDmgFloat: 0
+  runewBonusMaxMagicDmgFloat: 0
+  runewBonusMinMagicDmgFloat: 0
+  runewBonusStrFloat: 0
+  runewBonusDexFloat: 10
+  runewBonusAllAttributeFloat: 0

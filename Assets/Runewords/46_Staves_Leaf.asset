@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9723e1b371b9714080f1e6e4416d87f, type: 3}
+  m_Name: 46_Staves_Leaf
+  m_EditorClassIdentifier: 
+  runewName: Leaf
+  runewSockets: 2
+  runewRunes: Tir + Ral
+  runewDesc: "Adds 5-30 Fire Damage\r\n+3 To Fire Skills\r\n+3 To Fire Bolt (Sorceress
+    Only)\r\n+3 To Inferno (Sorceress Only)\r\n+3 To Warmth (Sorceress Only)\r\n+2
+    To Mana After Each Kill\r\n+ (2 Per Character Level) +2-198 To Defense (Based
+    On Character Level)\r\nCold Resist +33%"
+  runewGroup: Staves
+  runewLadder: null
+  runewOrder: 46
+  runewDetails: 2 Socket Staves (Not Orbs)
+  runewRequiredLevel: 19
+  runewBonusMaxEdFloat: 0
+  runewBonusIASFloat: 0
+  runewBonusMaxDmgFloat: 0
+  runewBonusMinDmgFloat: 0
+  runewBonusMaxFireDmgFloat: 30
+  runewBonusMinFireDmgFloat: 5
+  runewBonusMaxColdDmgFloat: 0
+  runewBonusMinColdDmgFloat: 0
+  runewBonusMaxLightDmgFloat: 0
+  runewBonusMinLightDmgFloat: 0
+  runewBonusPoisonDmgFloat: 0
+  runewBonusMaxMagicDmgFloat: 0
+  runewBonusMinMagicDmgFloat: 0
+  runewBonusStrFloat: 0
+  runewBonusDexFloat: 0
+  runewBonusAllAttributeFloat: 0

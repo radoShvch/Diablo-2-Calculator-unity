@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9723e1b371b9714080f1e6e4416d87f, type: 3}
+  m_Name: 9_Melee_Eternity
+  m_EditorClassIdentifier: 
+  runewName: Eternity
+  runewSockets: 5
+  runewRunes: Amn + Ber + Ist + Sol + Sur
+  runewDesc: "Indestructible\r\n+260-310% Enhanced Damage (varies)\r\n+9 To Minimum
+    Damage\r\n7% Life Stolen Per Hit\r\n20% Chance of Crushing Blow\r\nHit Blinds
+    Target\r\nSlows Target By 33%\r\nRegenerate Mana 16%\r\nReplenish Life +16\r\nCannot
+    Be Frozen\r\n30% Better Chance Of Getting Magic Items\r\nLevel 8 Revive (88 Charges)"
+  runewGroup: Melee
+  runewLadder: null
+  runewOrder: 9
+  runewDetails: 5 Socket Melee Weapons
+  runewRequiredLevel: 63
+  runewBonusMaxEdFloat: 310
+  runewBonusIASFloat: 0
+  runewBonusMaxDmgFloat: 0
+  runewBonusMinDmgFloat: 9
+  runewBonusMaxFireDmgFloat: 0
+  runewBonusMinFireDmgFloat: 0
+  runewBonusMaxColdDmgFloat: 0
+  runewBonusMinColdDmgFloat: 0
+  runewBonusMaxLightDmgFloat: 0
+  runewBonusMinLightDmgFloat: 0
+  runewBonusPoisonDmgFloat: 0
+  runewBonusMaxMagicDmgFloat: 0
+  runewBonusMinMagicDmgFloat: 0
+  runewBonusStrFloat: 0
+  runewBonusDexFloat: 0
+  runewBonusAllAttributeFloat: 0

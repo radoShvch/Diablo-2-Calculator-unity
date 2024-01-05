@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9723e1b371b9714080f1e6e4416d87f, type: 3}
+  m_Name: 40_Mixed_Insight
+  m_EditorClassIdentifier: 
+  runewName: Insight
+  runewSockets: 4
+  runewRunes: Ral + Tir + Tal + Sol
+  runewDesc: "Level 12-17 Meditation Aura When Equipped (varies)\r\n+35% Faster Cast
+    Rate\r\n+200-260% Enhanced Damage (varies)\r\n+9 To Minimum Damage\r\n180-250%
+    Bonus to Attack Rating (varies)\r\nAdds 5-30 Fire Damage\r\n+75 Poison Damage
+    Over 5 Seconds\r\n+1-6 To Critical Strike (varies)\r\n+5 To All Attributes\r\n+2
+    To Mana After Each Kill\r\n23% Better Chance of Getting Magic Items"
+  runewGroup: Mixed
+  runewLadder: Ladder only
+  runewOrder: 40
+  runewDetails: 4 Socket Polearms/Staves
+  runewRequiredLevel: 27
+  runewBonusMaxEdFloat: 260
+  runewBonusIASFloat: 0
+  runewBonusMaxDmgFloat: 0
+  runewBonusMinDmgFloat: 9
+  runewBonusMaxFireDmgFloat: 30
+  runewBonusMinFireDmgFloat: 5
+  runewBonusMaxColdDmgFloat: 0
+  runewBonusMinColdDmgFloat: 0
+  runewBonusMaxLightDmgFloat: 0
+  runewBonusMinLightDmgFloat: 0
+  runewBonusPoisonDmgFloat: 75
+  runewBonusMaxMagicDmgFloat: 0
+  runewBonusMinMagicDmgFloat: 0
+  runewBonusStrFloat: 0
+  runewBonusDexFloat: 0
+  runewBonusAllAttributeFloat: 5

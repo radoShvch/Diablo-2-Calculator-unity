@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9723e1b371b9714080f1e6e4416d87f, type: 3}
+  m_Name: 33_Claws_Chaos
+  m_EditorClassIdentifier: 
+  runewName: Chaos
+  runewSockets: 3
+  runewRunes: Fal + Ohm + Um
+  runewDesc: "9% Chance To Cast Level 11 Frozen Orb On Striking\r\n11% Chance To Cast
+    Level 9 Charged Bolt On Striking\r\n+35% Increased Attack Speed\r\n+290-340% Enhanced
+    Damage (varies)\r\nAdds 216-471 Magic Damage\r\n25% Chance of Open Wounds\r\n+1
+    To Whirlwind\r\n+10 To Strength\r\n+15 Life After Each Demon Kill"
+  runewGroup: Claws
+  runewLadder: null
+  runewOrder: 33
+  runewDetails: 3 Socket Claws
+  runewRequiredLevel: 57
+  runewBonusMaxEdFloat: 340
+  runewBonusIASFloat: 35
+  runewBonusMaxDmgFloat: 0
+  runewBonusMinDmgFloat: 0
+  runewBonusMaxFireDmgFloat: 0
+  runewBonusMinFireDmgFloat: 0
+  runewBonusMaxColdDmgFloat: 0
+  runewBonusMinColdDmgFloat: 0
+  runewBonusMaxLightDmgFloat: 0
+  runewBonusMinLightDmgFloat: 0
+  runewBonusPoisonDmgFloat: 0
+  runewBonusMaxMagicDmgFloat: 471
+  runewBonusMinMagicDmgFloat: 216
+  runewBonusStrFloat: 10
+  runewBonusDexFloat: 0
+  runewBonusAllAttributeFloat: 0

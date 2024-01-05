@@ -1,0 +1,35 @@
+Short Bow,1,4,5,3,0,15
+Hunter's Bow,2,6,−10,4,0,28
+Long Bow,3,10,0,5,22,19
+Composite Bow,4,8,−10,4,25,35
+Short Battle Bow,5,11,0,5,30,40
+Long Battle Bow,3,18,10,6,40,50
+Short War Bow,6,14,0,5,35,55
+Long War Bow,3,23,10,6,50,65
+Edge Bow,6,19,5,3,25,43
+Razor Bow,8,22,−10,4,25,62
+Cedar Bow,10,29,0,5,53,49
+Double Bow,11,26,−10,4,58,73
+Short Siege Bow,13,30,0,5,65,80
+Large Siege Bow,10,42,10,6,80,95
+Rune Bow,14,35,0,5,73,103
+Gothic Bow,10,50,10,6,95,118
+Spider Bow,23,50,5,3,64,143
+Blade Bow,21,41,−10,4,76,119
+Shadow Bow,15,59,0,5,52,188
+Great Bow,12,52,−10,4,121,107
+Diamond Bow,33,40,0,5,89,132
+Crusader Bow,15,63,10,6,97,121
+Ward Bow,20,53,0,5,72,146
+Hydra Bow,10,68,10,6,134,167
+Stag Box,7,12,0,5,30,45
+Reflex Bow,9,19,10,5,35,60
+Ashwood Bow,16,29,0,5,56,77
+Ceremonial Bow,19,41,10,5,73,110
+Matriarchal Bow,20,47,-10,5,87,187
+Grand Matron Bow,14,72,10,5,108,152
+Hand Axe,3,6,0,2,0,0
+Axe,4,11,0,4,32,0
+Double Axe,5,13,0,5,43,0
+Short Sword,2,7,0,2,0,0
+Scimitar,2,6,-10,2,0,21

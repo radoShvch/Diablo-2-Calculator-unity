@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9723e1b371b9714080f1e6e4416d87f, type: 3}
+  m_Name: 15_Bows_Brand
+  m_EditorClassIdentifier: 
+  runewName: Brand
+  runewSockets: 4
+  runewRunes: Jah + Lo + Mal + Gul
+  runewDesc: "35% Chance To Cast Level 14 Amplify Damage When Struck\r\n100% Chance
+    To Cast Level 18 Bone Spear On Striking\r\n+260-340% Enhanced Damage (varies)\r\nIgnore
+    Target's Defense\r\n20% Bonus to Attack Rating\r\n+280-330% Damage To Demons (varies)\r\n20%
+    Deadly Strike\r\nPrevent Monster Heal\r\nKnockback\r\nFires Explosive Arrows or
+    Bolts (15)"
+  runewGroup: Bows
+  runewLadder: Ladder only
+  runewOrder: 15
+  runewDetails: 4 Socket Missile Weapons
+  runewRequiredLevel: 65
+  runewBonusMaxEdFloat: 340
+  runewBonusIASFloat: 0
+  runewBonusMaxDmgFloat: 0
+  runewBonusMinDmgFloat: 0
+  runewBonusMaxFireDmgFloat: 0
+  runewBonusMinFireDmgFloat: 0
+  runewBonusMaxColdDmgFloat: 0
+  runewBonusMinColdDmgFloat: 0
+  runewBonusMaxLightDmgFloat: 0
+  runewBonusMinLightDmgFloat: 0
+  runewBonusPoisonDmgFloat: 0
+  runewBonusMaxMagicDmgFloat: 0
+  runewBonusMinMagicDmgFloat: 0
+  runewBonusStrFloat: 0
+  runewBonusDexFloat: 0
+  runewBonusAllAttributeFloat: 0

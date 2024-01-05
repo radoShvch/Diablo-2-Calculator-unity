@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9723e1b371b9714080f1e6e4416d87f, type: 3}
+  m_Name: 13_Melee_Strength
+  m_EditorClassIdentifier: 
+  runewName: Strength
+  runewSockets: 2
+  runewRunes: Amn + Tir
+  runewDesc: "35% Enhanced Damage\r\n25% Chance Of Crushing Blow\r\n7% Life Stolen
+    Per Hit\r\n+2 To Mana After Each Kill\r\n+20 To Strength\r\n+10 To Vitality"
+  runewGroup: Melee
+  runewLadder: null
+  runewOrder: 13
+  runewDetails: 2 Socket Melee Weapons
+  runewRequiredLevel: 25
+  runewBonusMaxEdFloat: 35
+  runewBonusIASFloat: 0
+  runewBonusMaxDmgFloat: 0
+  runewBonusMinDmgFloat: 0
+  runewBonusMaxFireDmgFloat: 0
+  runewBonusMinFireDmgFloat: 0
+  runewBonusMaxColdDmgFloat: 0
+  runewBonusMinColdDmgFloat: 0
+  runewBonusMaxLightDmgFloat: 0
+  runewBonusMinLightDmgFloat: 0
+  runewBonusPoisonDmgFloat: 0
+  runewBonusMaxMagicDmgFloat: 0
+  runewBonusMinMagicDmgFloat: 0
+  runewBonusStrFloat: 20
+  runewBonusDexFloat: 0
+  runewBonusAllAttributeFloat: 0

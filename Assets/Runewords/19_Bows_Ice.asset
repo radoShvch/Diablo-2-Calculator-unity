@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9723e1b371b9714080f1e6e4416d87f, type: 3}
+  m_Name: 19_Bows_Ice
+  m_EditorClassIdentifier: 
+  runewName: Ice
+  runewSockets: 4
+  runewRunes: Amn + Shael + Jah + Lo
+  runewDesc: "100% Chance To Cast Level 40 Blizzard When You Level-up\r\n25% Chance
+    To Cast Level 22 Frost Nova On Striking\r\nLevel 18 Holy Freeze Aura When Equipped\r\n+20%
+    Increased Attack Speed\r\n+140-210% Enhanced Damage (varies)\r\nIgnore Target's
+    Defense\r\n+25-30% To Cold Skill Damage (varies)\r\n-20% To Enemy Cold Resistance\r\n7%
+    Life Stolen Per Hit\r\n20% Deadly Strike\r\n3.125-309.375 Extra Gold From Monsters
+    (Based on Character Level)"
+  runewGroup: Bows
+  runewLadder: Ladder only
+  runewOrder: 19
+  runewDetails: 4 Socket Missile Weapons
+  runewRequiredLevel: 65
+  runewBonusMaxEdFloat: 210
+  runewBonusIASFloat: 20
+  runewBonusMaxDmgFloat: 0
+  runewBonusMinDmgFloat: 0
+  runewBonusMaxFireDmgFloat: 0
+  runewBonusMinFireDmgFloat: 0
+  runewBonusMaxColdDmgFloat: 0
+  runewBonusMinColdDmgFloat: 0
+  runewBonusMaxLightDmgFloat: 0
+  runewBonusMinLightDmgFloat: 0
+  runewBonusPoisonDmgFloat: 0
+  runewBonusMaxMagicDmgFloat: 0
+  runewBonusMinMagicDmgFloat: 0
+  runewBonusStrFloat: 0
+  runewBonusDexFloat: 0
+  runewBonusAllAttributeFloat: 0

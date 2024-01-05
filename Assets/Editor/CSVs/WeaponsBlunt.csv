@@ -1,0 +1,24 @@
+Club,Clubs,1,6,-10,2,0,0,1,0,0,0,0
+Spiked Club,Clubs,5,8,0,2,0,0,2,0,0,0,0
+Cudgel,Clubs,6,21,-10,2,25,0,3,0,0,0,0
+Barbed Club,Clubs,13,25,0,3,30,0,4,0,0,0,0
+Truncheon,Clubs,35,43,-10,2,88,43,5,0,0,0,0
+Tyrant Club,Clubs,32,58,0,3,133,0,6,0,0,0,0
+Mace,Maces,3,10,0,2,27,0,1,0,0,0,0
+Morning Star,Maces,7,16,10,3,36,0,2,0,0,0,0
+Flail,Maces,1,24,-10,5,41,35,3,0,0,0,0
+Flanged Mace,Maces,15,23,0,2,61,0,4,0,0,0,0
+Jagged Star,Maces,20,31,10,3,74,0,5,0,0,0,0
+Knout,Maces,13,35,-10,5,82,73,6,0,0,0,0
+Reinforced Mace,Maces,41,49,0,2,145,46,7,0,0,0,0
+Devil Star,Maces,43,53,10,3,153,44,8,0,0,0,0
+Scourge,Maces,3,80,-10,5,125,77,9,0,0,0,0
+War Hammer,Hammers,19,29,20,4,53,0,1,0,0,0,0
+Maul,Hammers,30,43,10,6,69,0,2,0,0,0,0
+Great Maul,Hammers,38,58,20,6,99,0,3,0,0,0,0
+Battle Hammer,Hammers,35,58,20,4,100,0,4,0,0,0,0
+War Club,Hammers,53,78,10,6,124,0,5,0,0,0,0
+Martel de Fer,Hammers,61,99,20,6,169,0,6,0,0,0,0
+Legendary Mallet,Hammers,50,61,20,4,189,0,7,0,0,0,0
+Ogre Maul,Hammers,77,106,10,6,225,0,8,0,0,0,0
+Thunder Maul,Hammers,33,180,20,6,253,0,9,0,0,0,0

@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9723e1b371b9714080f1e6e4416d87f, type: 3}
+  m_Name: 36_Mixed_Heart of the Oak
+  m_EditorClassIdentifier: 
+  runewName: Heart of the Oak
+  runewSockets: 4
+  runewRunes: Ko + Vex + Pul + Thul
+  runewDesc: "+3 To All Skills\r\n+40% Faster Cast Rate\r\n+75% Damage To Demons\r\n+100
+    To Attack Rating Against Demons\r\nAdds 3-14 Cold Damage, 3 sec. Duration (Normal)\r\n7%
+    Mana Stolen Per Hit\r\n+10 To Dexterity\r\nReplenish Life +20\r\nIncrease Maximum
+    Mana 15%\r\nAll Resistances +30-40 (varies)\r\nLevel 4 Oak Sage (25 Charges)\r\nLevel
+    14 Raven (60 Charges)"
+  runewGroup: Mixed
+  runewLadder: null
+  runewOrder: 36
+  runewDetails: 4 Socket Staves/Maces
+  runewRequiredLevel: 55
+  runewBonusMaxEdFloat: 0
+  runewBonusIASFloat: 0
+  runewBonusMaxDmgFloat: 0
+  runewBonusMinDmgFloat: 0
+  runewBonusMaxFireDmgFloat: 0
+  runewBonusMinFireDmgFloat: 0
+  runewBonusMaxColdDmgFloat: 14
+  runewBonusMinColdDmgFloat: 3
+  runewBonusMaxLightDmgFloat: 0
+  runewBonusMinLightDmgFloat: 0
+  runewBonusPoisonDmgFloat: 0
+  runewBonusMaxMagicDmgFloat: 0
+  runewBonusMinMagicDmgFloat: 0
+  runewBonusStrFloat: 0
+  runewBonusDexFloat: 10
+  runewBonusAllAttributeFloat: 0

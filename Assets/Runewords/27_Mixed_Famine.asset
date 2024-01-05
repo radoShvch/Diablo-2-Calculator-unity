@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9723e1b371b9714080f1e6e4416d87f, type: 3}
+  m_Name: 27_Mixed_Famine
+  m_EditorClassIdentifier: 
+  runewName: Famine
+  runewSockets: 4
+  runewRunes: Fal + Ohm + Ort + Jah
+  runewDesc: "+30% Increased Attack Speed\r\n+320-370% Enhanced Damage (varies)\r\nIgnore
+    Target's Defense\r\nAdds 180-200 Magic Damage\r\nAdds 50-200 Fire Damage\r\nAdds
+    51-250 Lightning Damage\r\nAdds 50-200 Cold Damage\r\n12% Life Stolen Per Hit\r\nPrevent
+    Monster Heal\r\n+10 To Strength"
+  runewGroup: Mixed
+  runewLadder: null
+  runewOrder: 27
+  runewDetails: 4 Socket Axes/Hammers
+  runewRequiredLevel: 65
+  runewBonusMaxEdFloat: 370
+  runewBonusIASFloat: 30
+  runewBonusMaxDmgFloat: 0
+  runewBonusMinDmgFloat: 0
+  runewBonusMaxFireDmgFloat: 200
+  runewBonusMinFireDmgFloat: 50
+  runewBonusMaxColdDmgFloat: 200
+  runewBonusMinColdDmgFloat: 50
+  runewBonusMaxLightDmgFloat: 250
+  runewBonusMinLightDmgFloat: 51
+  runewBonusPoisonDmgFloat: 0
+  runewBonusMaxMagicDmgFloat: 200
+  runewBonusMinMagicDmgFloat: 180
+  runewBonusStrFloat: 10
+  runewBonusDexFloat: 0
+  runewBonusAllAttributeFloat: 0

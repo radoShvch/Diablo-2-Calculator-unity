@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aaef011930da5c14c8bd1606a398569e, type: 3}
+  m_Name: Hammers_5
+  m_EditorClassIdentifier: 
+  weaponName: War Club
+  weaponType: Hammers
+  minDamage: 53
+  maxDamage: 78
+  speed: 10
+  maxSockets: 6
+  reqStr: 124
+  reqDex: 0
+  weaponIndex: 5
+  minDamageThrow: 0
+  maxDamageThrow: 0
+  minDamageOneHandSword: 0
+  maxDamageOneHandSword: 0

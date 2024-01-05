@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9723e1b371b9714080f1e6e4416d87f, type: 3}
+  m_Name: 22_Bows_Zephyr
+  m_EditorClassIdentifier: 
+  runewName: Zephyr
+  runewSockets: 2
+  runewRunes: Ort + Eth
+  runewDesc: "+33% Enhanced Damage\r\n+66 To Attack Rating\r\nAdds 1-50 Lightning
+    Damage\r\n-25% Target Defense\r\n+25 Defense\r\n25% Faster Run/Walk\r\n25% Increased
+    Attack Speed\r\n7% Chance To Cast Level 1 Twister When Struck"
+  runewGroup: Bows
+  runewLadder: null
+  runewOrder: 22
+  runewDetails: 2 Socket Missile Weapons
+  runewRequiredLevel: 21
+  runewBonusMaxEdFloat: 33
+  runewBonusIASFloat: 25
+  runewBonusMaxDmgFloat: 0
+  runewBonusMinDmgFloat: 0
+  runewBonusMaxFireDmgFloat: 0
+  runewBonusMinFireDmgFloat: 0
+  runewBonusMaxColdDmgFloat: 0
+  runewBonusMinColdDmgFloat: 0
+  runewBonusMaxLightDmgFloat: 50
+  runewBonusMinLightDmgFloat: 1
+  runewBonusPoisonDmgFloat: 0
+  runewBonusMaxMagicDmgFloat: 0
+  runewBonusMinMagicDmgFloat: 0
+  runewBonusStrFloat: 0
+  runewBonusDexFloat: 0
+  runewBonusAllAttributeFloat: 0

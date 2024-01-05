@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9723e1b371b9714080f1e6e4416d87f, type: 3}
+  m_Name: 34_Mixed_Black
+  m_EditorClassIdentifier: 
+  runewName: Black
+  runewSockets: 3
+  runewRunes: Thul + Io + Nef
+  runewDesc: "+120% Enhanced Damage\r\n40% Chance Of Crushing Blow\r\n+200 To Attack
+    Rating\r\nAdds 3-14 Cold Damage - Cold Duration 3 Seconds\r\n+10 To Vitality\r\n15%
+    Increased Attack Speed\r\nKnockback\r\nMagic Damage Reduced By 2\r\nLevel 4 Corpse
+    Explosion (12 Charges)"
+  runewGroup: Mixed
+  runewLadder: null
+  runewOrder: 34
+  runewDetails: 3 Socket Clubs/Hammers/Maces
+  runewRequiredLevel: 35
+  runewBonusMaxEdFloat: 120
+  runewBonusIASFloat: 15
+  runewBonusMaxDmgFloat: 0
+  runewBonusMinDmgFloat: 0
+  runewBonusMaxFireDmgFloat: 0
+  runewBonusMinFireDmgFloat: 0
+  runewBonusMaxColdDmgFloat: 14
+  runewBonusMinColdDmgFloat: 3
+  runewBonusMaxLightDmgFloat: 0
+  runewBonusMinLightDmgFloat: 0
+  runewBonusPoisonDmgFloat: 0
+  runewBonusMaxMagicDmgFloat: 0
+  runewBonusMinMagicDmgFloat: 0
+  runewBonusStrFloat: 0
+  runewBonusDexFloat: 0
+  runewBonusAllAttributeFloat: 0

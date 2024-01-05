@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9723e1b371b9714080f1e6e4416d87f, type: 3}
+  m_Name: 17_Bows_Faith
+  m_EditorClassIdentifier: 
+  runewName: Faith
+  runewSockets: 4
+  runewRunes: Ohm + Jah + Lem + Eld
+  runewDesc: "Level 12-15 Fanaticism Aura When Equipped (varies)\r\n+1-2 To All Skills
+    (varies)\r\n+330% Enhanced Damage\r\nIgnore Target's Defense\r\n300% Bonus To
+    Attack Rating\r\n+75% Damage To Undead\r\n+50 To Attack Rating Against Undead\r\n+120
+    Fire Damage\r\nAll Resistances +15\r\n10% Reanimate As: Returned\r\n75% Extra
+    Gold From Monsters"
+  runewGroup: Bows
+  runewLadder: Ladder only
+  runewOrder: 17
+  runewDetails: 4 Socket Missile Weapons
+  runewRequiredLevel: 65
+  runewBonusMaxEdFloat: 330
+  runewBonusIASFloat: 0
+  runewBonusMaxDmgFloat: 0
+  runewBonusMinDmgFloat: 0
+  runewBonusMaxFireDmgFloat: 120
+  runewBonusMinFireDmgFloat: 120
+  runewBonusMaxColdDmgFloat: 0
+  runewBonusMinColdDmgFloat: 0
+  runewBonusMaxLightDmgFloat: 0
+  runewBonusMinLightDmgFloat: 0
+  runewBonusPoisonDmgFloat: 0
+  runewBonusMaxMagicDmgFloat: 0
+  runewBonusMinMagicDmgFloat: 0
+  runewBonusStrFloat: 0
+  runewBonusDexFloat: 0
+  runewBonusAllAttributeFloat: 0
